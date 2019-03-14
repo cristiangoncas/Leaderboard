@@ -1,4 +1,5 @@
 Leaderboard
+
 Test project using HandlerThread and getLooper to get a better understanding of how it works.
 
 This app creates a leaderboard of teams with random names and skills. It executes the matches between them where each team face each other twice once as local and another one as visitor.
